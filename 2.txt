@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Tel-ran.     238       1 ?        11:00:41 /usr/bin/mintty
+Tel-ran.     384     239 pty1     11:53:24 /usr/bin/ps
+Tel-ran.     239     238 pty1     11:00:41 /usr/bin/bash
